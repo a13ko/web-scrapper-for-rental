@@ -1,0 +1,4 @@
+BOT_TOKEN = "7566096716:AAH_T-n7ODdlO0W5F9jO23O_F_xSgQW8mJI"
+BINA_AZ_URL = "https://bina.az/baki/kiraye/menziller?price_from=300&price_to=450&paid_daily=false&has_repair=true&location_ids[]=2&location_ids[]=7&location_ids[]=1&location_ids[]=35&location_ids[]=36&location_ids[]=8"
+KUB_AZ_URL = "https://kub.az/search?adsDateCat=All&entityType=0&buildingType=-1&purpose=1&ownerType=-1&city=1&subwayStation=8&subwayStation=34&subwayStation=2&subwayStation=33&subwayStation=7&subwayStation=59&subwayStation=1&subwayStation=35&words=&documentType=-1&loanType=-1&oneRoom=false&twoRoom=false&threeRoom=false&fourRoom=false&fiveMoreRoom=false&remakeType=-1&minFloor=1&maxFloor=31&minBuildingFloors=1&maxBuildingFloors=31&minPrice=250&maxPrice=450&minArea=&maxArea=&minParcelArea=&maxParcelArea=&search="
+EV10_AZ_URL = "https://ev10.az/baki/kiraye/menzil?price_min=250&price_max=450&renovated=true&is_agent=false"
